@@ -1,2 +1,2 @@
-# GU-AI-1-DB
-GeekBrains DB course
+## Repository for Geek University AI 1Q DataBases
+В курсе использую Docker с Postgres.
